@@ -14,8 +14,8 @@ paginate: 3 # How many posts to show per page
 google_analytics: UA-57422706-1
 
 # Author settings
-author_name: Tyler
-author_description: Full stack developer
+author_name: Tyler Cubell
+author_description: Full Stack Developer
 author_image: https://avatars1.githubusercontent.com/u/8307158
 author_image_width: 180
 author_image_height: 180
