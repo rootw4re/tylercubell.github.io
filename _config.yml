@@ -1,0 +1,54 @@
+# Site settings
+title: Tyler Cubell
+meta_description: Blog
+baseurl: "" # Subpath, e.g. /blog/
+url: "http://www.tylercubell.com" # Base protocol and hostname
+paginate: 3 # How many posts to show per page
+
+# External Pages
+#external_pages:
+# - title: Themeforest
+#   url: https://www.themeforest.net
+
+# Google Analytics
+google_analytics: UA-57422706-1
+
+# Author settings
+author_name: Tyler
+author_description: Full stack developer
+author_image: https://avatars1.githubusercontent.com/u/8307158
+author_image_width: 180
+author_image_height: 180
+author_image_mime: image/png
+
+# Share settings
+share_buttons: on
+
+# Comments settings
+disqus_shortname: tylercubell
+
+# Sidebar settings
+sidebar: left # left|right
+social_widget: on
+subscribe_widget: on
+copyright_notice: on
+
+# Social settings
+github_username:  tylercubell
+twitter_username: tylercubell
+
+# Mailchimp.com - Email subscribtion settings
+# Refer to http://kb.mailchimp.com/lists/signup-forms/advanced-form-customization
+form_action: "//tylercubell.us11.list-manage.com/subscribe/post?u=25ec516894b013df92dca1a8d&amp;id=8906705de6"
+list_id: "b_25ec516894b013df92dca1a8d_8906705de6"
+
+# Formspreee.io - Contact form settings
+# Note: submit form once to activate
+email: hello@tylercubell.com
+
+# Build settings
+markdown: kramdown
+
+# Sass settings
+sass:
+    style: :compressed
