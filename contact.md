@@ -4,7 +4,7 @@ title: Contact
 date: 2015-08-28 11:00:00
 permalink: /contact/
 ---
-I'm currently available for freelancing, open source projects, and employment opportunities.
+I'm currently <i>unavailable</i> for new projects.
 
 <form action="http://formspree.io/{{ site.email }}" method="POST">
     <div class="form-group">
