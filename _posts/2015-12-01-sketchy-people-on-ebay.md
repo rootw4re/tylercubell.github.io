@@ -10,10 +10,10 @@ Sold an old phone on eBay and made the mistake of not paying attention to the sh
 
 The buyer:
 
-```
+{% highlight %}
 Вячеслав Дехтярчук
 dextyrcuc@ukr.net
-```
+{% endhighlight %}
 
 With a shipping address to a Ukranian freight forwarding service:
 
