@@ -18,7 +18,7 @@ dextyrcuc@ukr.net
 With a shipping address to a Ukranian freight forwarding service:
 
 ```
-Vyacheslav Dekhtyarchuk 024292
+Vyacheslav Dekhtyarchuk 024292<br>
 641 Dowd Ave
 Meest-America Inc.
 Elizabeth , NJ 07201-2116
