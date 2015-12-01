@@ -8,7 +8,7 @@ categories:
 ---
 Sold an old phone on eBay and made the mistake of not paying attention to the shipping section which eBay automatically sets to international. Within 10 minutes the phone gets bought by some guy with a name I can't pronounce living in Ukraine. I'm immediately suspicious.
 
-The buyer:
+The buyer: --
 
 ```
 Вячеслав Дехтярчук
