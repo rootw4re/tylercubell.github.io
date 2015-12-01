@@ -28,10 +28,12 @@ United States
 With a [quick Google search](https://community.ebay.com/t5/Shipping-Returns/Has-anyone-shipped-to-Meest-America-in-Elizabeth-NJ/td-p/21959948) I found out that this has the potential to be a scam. bettybunter writes:
 
 ```
+
 I shipped items to the same address to be forwarded to the Ukraine.
 now she is saying she didn't get the items and is claiming her money back through paypal.
  
 another scammer i think.
+
 ```
 
 Called up eBay support to get their opinion and they were absolutely no help. I ended up cancelling the transaction, setting shipping to US only, and in 30 minutes the phone got bought by someone legit. What a PITA.
