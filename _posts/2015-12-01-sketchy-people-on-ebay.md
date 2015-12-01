@@ -8,7 +8,7 @@ categories:
 ---
 Sold an old phone on eBay and made the mistake of not paying attention to the shipping section which eBay automatically sets to international. Within 10 minutes the phone gets bought by some guy with a name I can't pronounce living in Ukraine. I'm immediately suspicious.
 
-The buyer:
+The buyer ([vycedext](http://www.ebay.com/usr/vycedext)):
 
 {% highlight bash %}
 Вячеслав Дехтярчук
@@ -23,6 +23,14 @@ Vyacheslav Dekhtyarchuk 024292
 Meest-America Inc.
 Elizabeth , NJ 07201-2116
 United States
+{% endhighlight %}
+
+I immediately got this message:
+
+{% highlight bash %}
+i paid
+please give me IMEI
+thanks!!!
 {% endhighlight %}
 
 With a [quick Google search](https://community.ebay.com/t5/Shipping-Returns/Has-anyone-shipped-to-Meest-America-in-Elizabeth-NJ/td-p/21959948) I found out that this has the potential to be a scam. bettybunter writes:
