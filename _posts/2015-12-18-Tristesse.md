@@ -16,4 +16,4 @@ Listening to [Étude Op. 10, No. 3](https://en.wikipedia.org/wiki/%C3%89tude_Op.
 Although this étude is sometimes identified by the names "Tristesse" (Sadness) or "Farewell (L'Adieu)," neither is a name given by Chopin.
 {% endhighlight %}
 
-On the same token, Beethoven's Piano Sonata No. 14 "Sonata Quasi Una Fantasia" got turned into "Moonlight Sonata". Is moonlight really the best word to attribute to it?
+On the same token, Beethoven's Piano Sonata No. 14 "Sonata Quasi Una Fantasia" got turned into "Moonlight Sonata" thanks to some obscure music critic no one remembers. I think the original heading written by Beethoven is much better fitting.
