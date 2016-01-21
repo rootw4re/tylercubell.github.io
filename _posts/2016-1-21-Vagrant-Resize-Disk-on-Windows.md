@@ -8,9 +8,9 @@ categories:
 ---
 
 1. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) for Windows.
-2. Add VirtualBox directory to PATH environment variable. Win+R->sysdm.cpl->Advanced Tab->Environment Variables->Select "path"->Edit.
-
-        C:\Program Files\Oracle\VirtualBox 
+2. Add VirtualBox directory to PATH environment variable.
+        Windows Key + R->sysdm.cpl->Advanced Tab->Environment Variables->Select "path"->Edit->Add this:
+        ;C:\Program Files\Oracle\VirtualBox 
 
 3. Open command prompt with elevated privileges. For Windows 10 right click on start button and select "Command Prompt (Admin)".
 4. Execute these commands:
