@@ -9,6 +9,7 @@ categories:
 
 1. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) for Windows.
 2. Add VirtualBox directory to PATH environment variable.
+
         Windows Key + R->sysdm.cpl->Advanced Tab->Environment Variables->Select "path"->Edit->Add this:
         ;C:\Program Files\Oracle\VirtualBox 
 
