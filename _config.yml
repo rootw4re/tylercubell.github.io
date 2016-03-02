@@ -46,9 +46,6 @@ list_id: "b_25ec516894b013df92dca1a8d_8906705de6"
 # Note: submit form once to activate
 email: hello@tylercubell.com
 
-# Build settings
-markdown: kramdown
-
 # Sass settings
 sass:
     style: :compressed
