@@ -52,3 +52,10 @@ markdown: kramdown
 # Sass settings
 sass:
     style: :compressed
+    
+# Gems
+gems:
+  - jekyll-paginate
+  - redcarpet
+  - jekyll-gist
+  - pygments.rb
