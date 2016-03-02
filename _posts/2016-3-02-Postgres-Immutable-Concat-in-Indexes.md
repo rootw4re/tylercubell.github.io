@@ -2,7 +2,7 @@
 title: 'Postgres Immutable Concat in Indexes'
 author: Tyler
 layout: post
-permalink: http://tylercubell.com/postgres-immutable-concat-in-indexes
+permalink: /postgres-immutable-concat-in-indexes
 categories:
   - Posts
 ---
