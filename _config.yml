@@ -1,7 +1,7 @@
 # Site settings
 title: Tyler Cubell
 meta_description: Blog
-baseurl:  "" # Subpath, e.g. /blog/
+baseurl:  "/" # Subpath, e.g. /blog/
 url: "http://www.tylercubell.com" # Base protocol and hostname
 paginate: 3 # How many posts to show per page
 
