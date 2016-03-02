@@ -1,8 +1,8 @@
 # Site settings
 title: Tyler Cubell
 meta_description: Blog
-baseurl:  # Subpath, e.g. /blog/
-url: http://www.tylercubell.com # Base protocol and hostname
+baseurl:  "" # Subpath, e.g. /blog/
+url: "http://www.tylercubell.com" # Base protocol and hostname
 paginate: 3 # How many posts to show per page
 
 # External Pages
@@ -48,10 +48,6 @@ email: hello@tylercubell.com
 
 # Build settings
 markdown: kramdown
-
-# Sass settings
-sass:
-    style: :compressed
     
 # Gems
 gems:
