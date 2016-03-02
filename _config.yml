@@ -56,6 +56,4 @@ sass:
 # Gems
 gems:
   - jekyll-paginate
-  - redcarpet
   - jekyll-gist
-  - pygments.rb
