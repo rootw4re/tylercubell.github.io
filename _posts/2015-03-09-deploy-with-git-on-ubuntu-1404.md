@@ -35,7 +35,7 @@ cd /etc/apache2/sites-available/000-default.conf
 
 Add this to the default configuration:
 
-{% highlight apache %}
+{% highlight conf %}
 <VirtualHost *:80>
    ServerName git.yourdomain.com
    DocumentRoot /var/www/git
