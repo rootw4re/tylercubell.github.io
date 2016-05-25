@@ -11,7 +11,7 @@ Yesterday one of my favorite channels on YouTube, [h3h3productions](https://www.
 
 I feel that I should share my experiences so anyone going through something similar can gain greater clarity from I've learned in hindsight. In this post I want to highlight the common themes in both of our cases.
 
-# Greedy Plaintiff
+## Greedy Plaintiff
 
 Some background: the defendant, h3h3productions, is a YouTube channel that creates reaction videos in which they take short clips from other videos and add their own commentary in order to satirize or otherwise parody the original video. Matt Hosseinzadeh (aka Bold Guy), the plaintiff, alleges that h3h3production's reaction video violates his copyrighted work because it doesn't constitute fair use. 
 
@@ -23,7 +23,7 @@ Something similar happened in my case where the opposing party offered to drop t
 
 In reality Bold Guy didn't like being poked fun at and knew that he stood to make a substantial amount of money so he chose to sue. I think his motivation is based on greed. In a similar fashion, the guy that sued me made all kinds of phony allegations in an attempt to bully and extort me in hopes of getting something of value which they didn't work for.
 
-# Unscrupulous Lawyer
+## Unscrupulous Lawyer
 
 Bar associations tout the fact that the law profession requires the highest of ethical standards and those who practice law are to be held accountable by those standards. I'm not intimately familiar with standard operating procedure for lawyers but in my view the actions of the opposing counsel in my case were unfair and disgusting.
 
@@ -33,6 +33,6 @@ In the case of h3h3productions, notwithstanding the fact that the video itself i
 
 For the record I'd also like to add that the opposing counsel in my case was [admonished](http://www.mass.gov/obcbbo/admon2009.htm) (bottom of page NO. 09-18) by the Board of Bar Overseers. Apparently he violated the attorney-client relationship by publishing highly confidential information about a case publicly on the internet. I'm guessing that the guy that sued me must have been rejected by numerous reputable lawyers before settling on a lawyer with such bad track record and a [Ripoff Report](http://www.ripoffreport.com/r/Fein-Law-Offices/Braintree-Massachusetts-02184/Fein-Law-Office-Christopher-Fien-was-given-2000000-to-represent-me-before-the-IRS-Inst-455617) profile with multiple complaints willing to take the case.
 
-# Conclusion
+## Conclusion
 
 I guess the moral of the story is stick to your guns and don't give into intimidation. I read on [Wikipedia](https://en.wikipedia.org/wiki/Settlement_(litigation)) that 2% of civil ligitation end in a trial so the odds of avoiding a prolonged and costly legal battle are pretty good. With the public pressure on Bold Guy, I think that it's likely that the lawsuit will be settled. In my case, after I exhibited strength, the guy that sued me retreated lickety-split. Always stand up to bullies. Oh, and never sign a letter of intent thinking you have nothing to lose.
