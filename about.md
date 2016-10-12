@@ -56,14 +56,6 @@ Hi there, my name is Tyler and I'm a full stack developer from East Bridgewater,
                         </div>
                     </div>
                     <div class="card">
-                        <a href="http://www.videothumbnailmaker.com"><img class="card-img-top" src="/images/videothumbnailmaker.png" alt="Alternate Text" style="width:100%"></a>
-                        <div class="card-block">
-                            <h4 class="card-title">Video Thumbnail Maker</h4>
-                            <p class="card-text">API to convert videos to thumbnails.</p>
-                            <p class="card-text"><small class="text-muted">2015</small></p>
-                        </div>
-                    </div>
-                    <div class="card">
                         <a href="http://www.jekyllthemes.io"><img class="card-img-top" src="/images/jekyllthemes.png" alt="Alternate Text" style="width:100%"></a>
                         <div class="card-block">
                             <h4 class="card-title">Jekyll Themes</h4>
