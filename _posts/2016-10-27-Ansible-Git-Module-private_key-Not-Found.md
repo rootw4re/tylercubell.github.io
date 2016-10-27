@@ -11,7 +11,7 @@ Ansible's [git module](http://docs.ansible.com/ansible/git_module.html) fails wh
 
 {% highlight yaml %}
 - name: Deploy using Git over SSH
-   git: repo=ssh://git@example.com/foo.git
+  git: repo=ssh://git@example.com/foo.git
        dest=/bar
        version=master
        key_file={% raw %}{{ "ssh_keys/id_rsa" | realpath }}{% endraw %}
