@@ -13,21 +13,21 @@ Full stack developer from the Greater Boston Area.
         <div class="col-md-4">
             <h6>Frontend</h6>
             <ul>
-                <li>Bootstrap</li>
                 <li>HTML5</li>
                 <li>CSS3</li>
                 <li>SASS</li>
-                <li>Javascript / jQuery</li>
+                <li>Bootstrap 4</li>
+                <li>JS, jQuery</li>
             </ul>
         </div>
         <div class="col-md-4">
             <h6>Backend</h6>
             <ul>
+                <li>GNU/Linux</li>
                 <li>Apache2</li>
-                <li>PHP5</li>
-                <li>Laravel</li>
+                <li>PHP7</li>
+                <li>Laravel 5</li>
                 <li>Ansible</li>
-                <li>Ubuntu</li>
             </ul>
         </div>
         <div class="col-md-4">
@@ -38,6 +38,10 @@ Full stack developer from the Greater Boston Area.
                 <li>NodeJS</li>
                 <li>Python</li>
                 <li>Photoshop</li>
+                <li>Facebook Ads</li>
+                <li>Google Adwords</li>
+                <li>Wordpress</li>
+                <li>Jekyll</li>
             </ul>
         </div>
     </div>
