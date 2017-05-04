@@ -31,7 +31,7 @@ Developer from the Greater Boston Area.
                 <li>Python</li>
                 <li>Laravel</li>
                 <li>Ansible</li>
-                <li>Postgres<li>
+                <li>Postgres</li>
                 <li>Postgis</li>
             </ul>
         </div>
