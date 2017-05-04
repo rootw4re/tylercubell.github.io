@@ -4,7 +4,7 @@ title: About
 date: 2015-08-28 11:00:00
 permalink: /about/
 ---
-Full stack developer from the Greater Boston Area.
+Developer from the Greater Boston Area.
 
 <div class="container">
     <div class="row">
@@ -13,21 +13,26 @@ Full stack developer from the Greater Boston Area.
         <div class="col-md-4">
             <h6>Frontend</h6>
             <ul>
-                <li>HTML5</li>
-                <li>CSS3</li>
+                <li>HTML</li>
+                <li>CSS</li>
                 <li>SASS</li>
-                <li>Bootstrap 4</li>
-                <li>JS, jQuery</li>
+                <li>Bootstrap</li>
+                <li>Javascript</li>
+                <li>jQuery</li>
+                <li>Webpack</li>
             </ul>
         </div>
         <div class="col-md-4">
             <h6>Backend</h6>
             <ul>
-                <li>GNU/Linux</li>
-                <li>Apache2</li>
-                <li>PHP7</li>
-                <li>Laravel 5</li>
+                <li>Ubuntu</li>
+                <li>Apache</li>
+                <li>PHP</li>
+                <li>Python</li>
+                <li>Laravel</li>
                 <li>Ansible</li>
+                <li>Postgres<li>
+                <li>Postgis</li>
             </ul>
         </div>
         <div class="col-md-4">
@@ -36,7 +41,6 @@ Full stack developer from the Greater Boston Area.
                 <li>Git</li>
                 <li>Stripe API</li>
                 <li>NodeJS</li>
-                <li>Python</li>
                 <li>Photoshop</li>
                 <li>Facebook Ads</li>
                 <li>Google Adwords</li>
